@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "381873182603",
+    "firebase_url": "https://fittrackerflutter-default-rtdb.firebaseio.com",
+    "project_id": "fittrackerflutter",
+    "storage_bucket": "fittrackerflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381873182603:android:93d28cc86a57c957ea418e",
+        "android_client_info": {
+          "package_name": "com.example.fit_tracker_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381873182603-73b4tu7okqbhgphsv2o2ichls3t4s5ta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBumqPM-z1XoShIPUKSsEOM0M900mRQTQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381873182603-73b4tu7okqbhgphsv2o2ichls3t4s5ta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
